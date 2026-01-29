@@ -1,16 +1,34 @@
-## Hi there 👋
+#  I'm Henrik 👋
 
-<!--
-**hbhelmers/hbhelmers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd year Computer Engineering student  
+💻 Interested in Full Stack Development and AI  
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I enjoy working across the whole stack, from backend logic to frontend UI.
+- Currently exploring:
+  - Full stack web development
+  - Machine learning 
+
+## Tech stack (so far)
+
+- Languages:  
+  `Java` `JavaScript` `Python` 
+
+- Web & Full Stack:  
+  `React` `Spring` `PostgreSQL` `HTML` `CSS`
+
+- Tools & Other:  
+  `Git` `Docker` `Postman` `SQL`
+
+## Current focus
+
+- Working on bachelor project
+    - Implementing AI model on the Reachy Mini robot
+
+## Contact
+
+- GitHub: https://github.com/hbhelmers
+- LinkedIn: www.linkedin.com/in/henrik-bloch-helmers-b1581a305
+
+---
