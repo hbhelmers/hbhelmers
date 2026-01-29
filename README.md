@@ -1,6 +1,6 @@
 #  I'm Henrik 👋
 
-🎓 3rd year Computer Engineering student  
+🎓 3rd year Computer Science student  
 💻 Interested in Full Stack Development and AI  
 
 ## About me
