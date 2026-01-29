@@ -1,4 +1,4 @@
-#  I'm Henrik 👋
+#  Henrik Helmers 😁
 
 🎓 3rd year Computer Science student  
 💻 Interested in Full Stack Development and AI  
@@ -30,5 +30,6 @@
 
 - GitHub: https://github.com/hbhelmers
 - LinkedIn: www.linkedin.com/in/henrik-bloch-helmers-b1581a305
+- email: henblohel@outlook.com
 
 ---
